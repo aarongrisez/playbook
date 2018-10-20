@@ -1,10 +1,9 @@
 {
   "docs": {
     "Product Design Sprint": ["product-design-sprint","phase0-prepare","phase1-understand","phase2-diverge","phase3-converge","phase4-prototype","phase5-test-and-learn"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Planning": ["pds-planning","pds-planning-process","pds-planning-daily","pds-planning-nothing","pds-planning-manage","pds-planning-meet","pds-planning-remote"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["doc2","doc3","doc4", "doc5"]
   }
 }
